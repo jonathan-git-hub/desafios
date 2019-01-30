@@ -1,0 +1,31 @@
+h1 { 
+    color: white; font-weight: bold; font-size: 100px; text-align: center;
+ }
+body { 
+    background-color: black; background-image: linear-gradient(to right, black, gray)
+     }
+ol li { color: blue;
+     }
+h2 { 
+    font-family: 'Times New Roman', Times, serif; font-size: 35px; 
+    color: rgba(28, 117, 129, 0.534)
+}
+p {
+    text-decoration: underline; 
+    color:sandybrown;   
+}
+nav { overflow: auto; height: 80px; background-color: #30A6E6;}
+nav ol{padding-top: 10px; }
+
+nav li {display:inline; position: relative;
+     padding: 30px; margin: 30px; font-size: 20px;}
+a:hover {background-color:white; color: #000;} 
+
+nav a{ background: #30A6E6;
+    text-align: center;
+    text-decoration: none;}
+
+img { padding-bottom: 20px; }
+
+ul li { float: left; width: 13%; background-color: cadetblue}
+ul li { height: 300px; border: solid 2px white; text-align: center; margin: 6px; padding-top: 25px; list-style: none;}

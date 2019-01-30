@@ -1,0 +1,16 @@
+h1 { 
+    color: brown; font-weight: bold; font-size: 80px; text-align: center
+ }
+body { 
+    background-color: bisque;
+     }
+ul li { color: blue;
+     }
+h2 { 
+    font-family: 'Times New Roman', Times, serif; font-size: 35px; 
+    color: rgba(28, 117, 129, 0.534)
+}
+p {
+    text-decoration: underline; 
+    color: aqua;   
+}

@@ -1,0 +1,42 @@
+h1 { 
+    color: white; font-weight: bold; font-size: 100px; text-align: center;
+ }
+body { 
+    background-color: black; background-image: linear-gradient(to right, black,gray, black)
+     }
+
+ol li { color: blue;
+     }
+h2 { 
+    font-family: 'Times New Roman', Times, serif; font-size: 35px; 
+    color: rgba(28, 117, 129, 0.534)
+}
+p {
+    text-decoration: underline; 
+    color:sandybrown;   
+}
+/*botonera*/
+nav { overflow: auto; height: 80px; background-color: #30A6E6;}
+nav ol{padding-top: 10px; }
+
+nav li {display:inline; position: relative;
+      margin: 30px; font-size: 20px;}
+a:hover {background-color:white; color: #000;} 
+
+nav a{ background: #30A6E6;
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;}
+
+/*discografia*/
+img { padding-bottom: 20px; border-radius: 10px; transition: transform 2s}
+img:hover{ transform: scale(2,2)}
+
+ul li { float: left; width: 13%; background-color: cadetblue;}
+ul li { height: 280px; border: solid 2px white; text-align: center; margin: 6px; padding-top: 25px; list-style: none;}
+ul li:hover{ background-color: black}
+
+/*formularios*/
+input{width: 130px; transition: width 3s}
+input:hover{ height: 20px;width: 300px;}
+p{display: inline}

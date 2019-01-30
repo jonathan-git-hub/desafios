@@ -1,0 +1,25 @@
+/* line 1, C:/Users/fvg/Desktop/Coderhouse/Desafio 9/Scss/Estilos.scss */
+.header {
+  color: seagreen;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* line 6, C:/Users/fvg/Desktop/Coderhouse/Desafio 9/Scss/Estilos.scss */
+.body {
+  background-color: cornflowerblue;
+}
+
+/* line 9, C:/Users/fvg/Desktop/Coderhouse/Desafio 9/Scss/Estilos.scss */
+.li {
+  color: indigo;
+  font-size: 20px;
+}
+
+/* line 13, C:/Users/fvg/Desktop/Coderhouse/Desafio 9/Scss/Estilos.scss */
+.td {
+  color: blue;
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=../Css/Estilos.map */

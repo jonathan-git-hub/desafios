@@ -1,0 +1,21 @@
+h1 { 
+    color: brown; font-weight: bold; font-size: 80px; text-align: center
+ }
+body { 
+    background-color: bisque;
+     }
+ol li { color: blue;
+     }
+h2 { 
+    font-family: 'Times New Roman', Times, serif; font-size: 35px; 
+    color: rgba(28, 117, 129, 0.534)
+}
+p {
+    text-decoration: underline; 
+    color: aqua;   
+}
+ul { overflow: auto }
+ul li { float: left; width: 13%; background-color: cadetblue}
+ul li { height: 300px; border: solid 2px black; text-align: center; margin: 6px; padding-top: 25px; list-style: none;}
+
+img { padding-bottom: 20px; }

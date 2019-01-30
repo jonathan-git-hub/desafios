@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../Scss/Estilos.css",
+	"sources": [
+		"../Scss/Estilos.scss"
+	],
+	"sourcesContent": [
+		".header{\r\n    color: seagreen;\r\n    font-size: 35px;\r\n    font-family: 'Times New Roman', Times, serif;\r\n}\r\n.body{\r\n    background-color: cornflowerblue;\r\n}\r\n.li{\r\n    color: indigo;\r\n    font-size: 20px;\r\n}\r\n.td{\r\n    color: blue;\r\n    font-size: 15px\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,OAAO,CAAA;EACH,KAAK,EAAE,QAAS;EAChB,SAAS,EAAE,IAAK;EAChB,WAAW,EAAE,+BAAgC;CAChD;;;AACD,AAAA,KAAK,CAAA;EACD,gBAAgB,EAAE,cAAe;CACpC;;;AACD,AAAA,GAAG,CAAA;EACC,KAAK,EAAE,MAAO;EACd,SAAS,EAAE,IAAK;CACnB;;;AACD,AAAA,GAAG,CAAA;EACC,KAAK,EAAE,IAAK;EACZ,SAAS,EAAE,IACd;CAAC",
+	"names": []
+}
